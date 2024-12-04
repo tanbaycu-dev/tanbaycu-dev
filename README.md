@@ -10,7 +10,7 @@
 
 ## My Contribution Graph
 
-![Your Contribution Graph](https://raw.githubusercontent.com/Platane/snk/master/assets/github-contribution-grid-snake.svg)
+![Your Contribution Graph](https://raw.githubusercontent.com/Platane/snk/master/assets/github-contribution-grid-snake.svg)dfghgjhk
 
 ## My Trophy Collection
 
